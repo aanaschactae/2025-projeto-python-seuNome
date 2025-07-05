@@ -1,2 +1,2 @@
-# 2025-projeto-python-seuNome
+# 2025-projeto-python-AnaVitóriaSchactaeBrandão
 Projeto de Programação - Fundamentos Python
